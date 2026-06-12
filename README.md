@@ -6,8 +6,6 @@
 |---|---|---|---|---|
 | Yash | iOS 17+ · SwiftUI | 3 months | $9.99/mo · 7-day trial | Draft v3 |
 
-*v3 closes 9 review findings: receipt-grade privacy spec, Hype Mode loop branch, stateful TTS proxy, cruelty decay + redemption, safe-word duplexing, wireframe timestamps, rule-4 testability.*
-
 ---
 
 ## 1. Thesis
